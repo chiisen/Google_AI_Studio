@@ -1,5 +1,6 @@
 # Google_AI_Studio
 教會你用 Google AI Studio 提早結束工作回家  
+Chat (聊天)、Talk(語音聊天)、Webcam(視訊聊天)、Share Screen (分享螢幕)、Video Gen (文字產動畫)。  
 
 # 進入網址
 https://aistudio.google.com/prompts/new_chat  
